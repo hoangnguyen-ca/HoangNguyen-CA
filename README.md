@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Go
+🌱 I’m currently learning Python and Machine Learning
 
 <!--
 **HoangNguyen-CA/HoangNguyen-CA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
